@@ -5,8 +5,9 @@ int main() {
     return 0;
 }
 
-int main01()
+int main_test()
 {
+
     char c;//定义一个char类型的变量
     c = 'a';
     printf("%c\n", c);
